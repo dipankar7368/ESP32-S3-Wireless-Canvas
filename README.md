@@ -54,13 +54,7 @@ The ESP32-S3 creates its own Wi-Fi access point. Connect your phone to the ESP32
 
 🎥 Watch the complete project demonstration:
 
-**[▶️ Watch the Project on YouTube](PASTE-YOUR-YOUTUBE-LINK-HERE)**
-
-## 📸 Project
-
-Add your project photos here.
-
-![Project](images/project.jpg)
+**[▶️ Watch the Project on YouTube](https://youtube.com/shorts/87DYXOui1Us?si=q2Ojm-48lm3F29UG)**
 
 ## 👨‍💻 Author
 
